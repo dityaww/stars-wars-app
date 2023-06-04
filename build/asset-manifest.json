@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ac815071.js",
+    "static/media/star-wars-logo.png": "/static/media/star-wars-logo.4b135a4a4d6e835c309e.png",
+    "static/media/people.jpeg": "/static/media/people.6b33ffdbce5ac8e6d71b.jpeg",
+    "static/media/planets.jpeg": "/static/media/planets.147c024542a60f1160c7.jpeg",
+    "static/media/movies.jpeg": "/static/media/movies.d774182b3a1daaa2170a.jpeg",
+    "index.html": "/index.html",
+    "main.ac815071.js.map": "/static/js/main.ac815071.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ac815071.js"
+  ]
+}
